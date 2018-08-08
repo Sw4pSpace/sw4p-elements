@@ -1,0 +1,18 @@
+{
+  "name": "sw4p-elements",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Sw4pSpace/sw4p-elements",
+  "license": "GNU GPL v3",
+  "private": true,
+  "dependencies": {
+    "contrib-card": "git://github.com/Sw4pSpace/contrib-card.git",
+    "sw4p-header": "git://github.com/Sw4pSpace/sw4p-header.git",
+    "sw4p-button": "git://github.com/Sw4pSpace/sw4p-button.git",
+    "sw4p-icon": "git://github.com/Sw4pSpace/sw4p-icon.git"
+  },
+  "authors": [
+    "jdesive"
+  ],
+  "description": "",
+  "main": "sw4p-elements.html"
+}
