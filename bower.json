@@ -9,7 +9,8 @@
     "sw4p-header": "git://github.com/Sw4pSpace/sw4p-header.git",
     "sw4p-button": "git://github.com/Sw4pSpace/sw4p-button.git",
     "sw4p-icon": "git://github.com/Sw4pSpace/sw4p-icon.git",
-    "sw4p-video": "git://github.com/Sw4pSpace/sw4p-video.git"
+    "sw4p-video": "git://github.com/Sw4pSpace/sw4p-video.git",
+    "sw4p-tool": "git://github.com/Sw4pSpace/sw4p-tool.git"
   },
   "authors": [
     "jdesive"
